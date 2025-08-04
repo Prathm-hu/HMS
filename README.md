@@ -67,7 +67,7 @@
     <h2>Setup Instructions:</h2>
     <ol>
         <li><h4>Clone the Repository:</h4></li>
-        <p>git clone https://github.com/patilrohit1964/my_lms.git</p>
+        <p>git clone https://github.com/Prathm-hu/LMS</p>
         <p>cd MY_LMS</p>
         <li><h4>Install Dependencies:</h4></li>
         <p>npm install</p>
